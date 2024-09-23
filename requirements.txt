@@ -1,4 +1,4 @@
-python=3.8
+python==3.8
 bokeh==3.1.1
 dash==2.18.1
 nret==0.9
